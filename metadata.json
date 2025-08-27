@@ -1,0 +1,5 @@
+{
+  "name": "AI Digital Journal",
+  "description": "A web application that allows users to write journal entries and receive AI-powered analysis of their mood and emotions, with data visualization dashboards.",
+  "requestFramePermissions": []
+}
